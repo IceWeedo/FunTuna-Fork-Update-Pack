@@ -11,7 +11,7 @@ Basic update pack For [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-F
 ## - Add-on
 
   * POPS
-  * POPStarter
+  * POPStarter R13
   * POPStarter exFAT support
   * POPSLoader 1.0.0 R3
     
