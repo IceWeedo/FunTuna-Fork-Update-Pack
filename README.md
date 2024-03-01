@@ -10,7 +10,7 @@ Basic update pack For [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-F
 
 ## - AddOn
 
-  * Popstarter exFAT support
+  * POPStarter exFAT support
 
     
 ## - Installation
