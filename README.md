@@ -15,4 +15,4 @@ Basic update pack For [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-F
     
 ## - Installation
 
-Just copy and paste in your mc0 after fresh install FunTuna
+Just copy and paste in your mc0 after fresh install of FunTuna 1.0.10
