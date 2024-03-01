@@ -14,6 +14,15 @@ Basic update pack For [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-F
   * POPStarter R13
   * POPStarter exFAT support
   * POPSLoader 1.0.0 R3
+
+## - Config
+
+  * POPStarter CHEAT.TXT
+    * (C:\FXServer)
+    * 
+  * POPStarter VMCDIR.TXT
+    * (C:\FXServer)
+   
     
 ## - Installation
 
