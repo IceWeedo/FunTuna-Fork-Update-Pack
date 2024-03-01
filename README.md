@@ -22,7 +22,7 @@ Basic update pack For [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-F
     * $SMOOTH
  
   * POPStarter VMCDIR.TXT
-    * Use VMC folder mass0:/VMC/ for all games
+    * Use VMC SLOT0.VMC and SLOT1.VMC for all games in folder mass0:POPS/VMC/
    
 ## - Installation
 
