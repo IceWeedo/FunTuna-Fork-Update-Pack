@@ -1,6 +1,6 @@
 # FunTuna Fork Update Pack
 
-Basic update paxk For [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-Fork)
+Basic update pack For [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-Fork)
 
 ## - Update
 
