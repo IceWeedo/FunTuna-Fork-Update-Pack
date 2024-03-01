@@ -2,11 +2,13 @@
 
 Basic update pack For [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-Fork)
 
+
 ## - Update
 
   * FreeMCBoot 1.8 > FreeMCBoot 1.966
   * uLaunchELF 4.43a > wLaunchELF 4.43x ISR
   * Open PS2 Loader 1.0.0 > Open PS2 Loader 1.2.0 Bêta
+    
 
 ## - Add-on
 
@@ -14,19 +16,23 @@ Basic update pack For [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-F
   * POPStarter R13
   * POPStarter exFAT support
   * POPSLoader 1.0.0 R3
+    
 
 ## - Config
 
-  * POPStarter CHEAT.TXT
-    * (C:\FXServer)
-    * 
+  * POPStarter CHEATS.TXT
+    * $SAFEMODE
+    * $HDTVFIX
+    * $SMOOTH
+ 
   * POPStarter VMCDIR.TXT
-    * (C:\FXServer)
+    * Use VMC folder mass0:/VMC/ for all games
    
     
 ## - Installation
 
 Just copy and paste in your mc0 and mass0 after fresh install of [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-Fork)
+
 
 ## - Additional Infos
 
