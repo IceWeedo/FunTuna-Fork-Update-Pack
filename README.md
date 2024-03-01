@@ -11,8 +11,12 @@ Basic update pack For [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-F
 ## - Add-on
 
   * POPStarter exFAT support
-
     
 ## - Installation
 
 Just copy and paste in your mc0 after fresh install of [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-Fork)
+
+## - Infos
+
+  * Tested on PS2 FAT / SCPH 3001R
+  * Tested on 128MB Memory Card No MagicGate
