@@ -8,7 +8,7 @@ Basic update pack For [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-F
   * uLaunchELF 4.43a > wLaunchELF 4.43x ISR
   * Open PS2 Loader 1.0.0 > Open PS2 Loader 1.2.0 Bêta
 
-## - AddOn
+## - Add-on
 
   * POPStarter exFAT support
 
