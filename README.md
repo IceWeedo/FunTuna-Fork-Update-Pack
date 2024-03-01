@@ -19,7 +19,7 @@ Basic update pack For [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-F
 
 Just copy and paste in your mc0 and mass0 after fresh install of [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-Fork)
 
-## - Infos
+## - Additional Infos
 
   * Tested on PS2 FAT SCPH-3004 R
   * Tested on 128MB Memory Card No MagicGate
