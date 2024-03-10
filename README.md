@@ -4,15 +4,14 @@ Basic update pack for [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-F
 
 ## - Update
 
-  * FreeMCBoot 1.8 > FreeMCBoot 1.966
-  * Open PS2 Loader 1.0.0 > Open PS2 Loader 1.2.0 Bêta
+  * FreeMCBoot 1.8 > [FreeMCBoot 1.966](https://github.com/israpps/FreeMcBoot-Installer)
+  * Open PS2 Loader 1.0.0 > [Open PS2 Loader 1.2.0 Bêta 2070 234a36](https://github.com/ps2homebrew/Open-PS2-Loader)
     
 ## - Add-on
 
-  * POPS
-  * POPStarter R13
-  * POPStarter exFAT support
-  * POPSLoader 1.0.0 R3
+  * [POPS](https://github.com/AnimMouse/POPS-binaries)
+  * [POPStarter r13](https://www.psx-place.com/threads/popstarter.19139/) **+** [exFAT Support](https://github.com/israpps/BDMAssault)
+  * [POPSLoader 1.0.0 r13](https://www.psx-place.com/threads/popsloader.42474/)
     
 ## - Config
 
