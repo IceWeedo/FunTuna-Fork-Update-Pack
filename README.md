@@ -15,20 +15,22 @@ Basic update pack for [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-F
     
 ## - Config
 
-  * POPStarter CHEATS.TXT
+### POPStarter
+
+  * **CHEATS.TXT**
     * $SAFEMODE
     * $HDTVFIX
     * $SMOOTH
     * $IGR2
  
-  * POPStarter VMCDIR.TXT
-    * Use VMC SLOT0.VMC and SLOT1.VMC for all games in folder mass0:POPS/VMC/
+  * **VMCDIR.TXT**
+    * Use virtual memory card **SLOT0.VMC** and **SLOT1.VMC** for all games in folder **"mass:/POPS/VMC/"**
    
 ## - Installation
 
-Just copy and paste in your mc0 and mass0 after fresh install of [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-Fork)
+Just copy and paste in your **"mc0:/"** and **"mass:/"** after fresh install of [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-Fork)
 
 ## - Additional Infos
 
-  * Tested on PS2 FAT SCPH-3004 R
+  * Tested on PS2 FAT SCPH-3004 R with [FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot)
   * Tested on 128MB Memory Card No MagicGate
