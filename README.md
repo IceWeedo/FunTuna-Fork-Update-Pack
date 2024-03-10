@@ -4,7 +4,7 @@ Basic update pack for [FunTuna Fork 1.0.10](https://github.com/israpps/Funtuna-F
 
 ## - Update
 
-  * FreeMCBoot 1.8 > [FreeMCBoot 1.966](https://github.com/israpps/FreeMcBoot-Installer)
+  * FreeMCBoot 1.8 > [FreeMCBoot 1.966](https://github.com/israpps/FreeMcBoot-Installer) **+** [exFAT Support](https://github.com/israpps/BDMAssault)
   * Open PS2 Loader 1.0.0 > [Open PS2 Loader 1.2.0 Bêta 2070 234a36](https://github.com/ps2homebrew/Open-PS2-Loader)
     
 ## - Add-on
